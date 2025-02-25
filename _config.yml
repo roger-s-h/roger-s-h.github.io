@@ -27,8 +27,11 @@ url: "https://ilovepennystocks.com" # the base hostname & protocol for your site
 twitter_username: PennyStockLuvr
 # github_username:  jekyll
 
+# Settings for Hamilton theme
+skin: midnight
+
 # Build settings
-theme: minima
+theme: jekyll-theme-hamilton
 plugins:
   - jekyll-feed
 
