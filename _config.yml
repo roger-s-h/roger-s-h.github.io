@@ -31,11 +31,11 @@ twitter_username: PennyStockLuvr
 skin: midnight
 
 # Build settings
-theme: jekyll-theme-hamilton
+# theme: jekyll-theme-hamilton
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-theme-hamilton
+# - jekyll-theme-hamilton
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
