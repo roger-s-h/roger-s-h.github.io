@@ -1,0 +1,13 @@
+- title: About
+  url: /about/
+- title: Resources
+  sublinks:
+    - title: Books
+      url: /books/
+    - title: Exchanges
+      url: /exchanges/
+  url: /resources/
+- title: More
+  url: /moreaboutme/
+- title: FAQs
+  url: /faqs/
