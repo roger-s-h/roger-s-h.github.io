@@ -35,7 +35,7 @@ theme: jekyll-theme-hamilton
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-#  - jekyll-theme-hamilton
+  - jekyll-theme-hamilton
 
 remote_theme: ngzhio/jekyll-theme-hamilton
 
