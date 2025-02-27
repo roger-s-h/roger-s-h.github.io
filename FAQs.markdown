@@ -4,7 +4,7 @@ title: FAQs
 permalink: /FAQs/
 ---
 
-Got a question??? Slide into my DMs! KappaPride
+## Got a question??? Slide into my DMs! (Kappa)
 
 
 What is a Penny Stock?

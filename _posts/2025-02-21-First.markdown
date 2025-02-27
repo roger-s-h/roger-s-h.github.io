@@ -3,6 +3,7 @@ layout: post
 title:  "And so it begins..."
 date:   2025-02-21 22:55:23 -0800
 categories: jekyll update
+permalink: /_posts/
 ---
 FIRST!
 
