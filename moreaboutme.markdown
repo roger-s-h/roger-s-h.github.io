@@ -15,8 +15,10 @@ This led to a career arc that spanned a little over 15 years at 5 different firm
 
 I was solely focused on gaining the experience and skills that would allow me to achieve my own financial goals through trading. All of the training I underwent and certifications I attained were all in an effort to gain a better understanding of the machinations of financial markets and the rules and regulations that govern them.  
 
-But in the end, I learned that I didn't need to work "in the industry" to get what I wanted.  I didn't need my Series 7/24/55/blahblahblah licensess, other than how it enabled my roles with the firms that employed me.  
+But in the end, I learned that I didn't need to work in the industry to get what I wanted.  I didn't need my Series 7/24/55/blahblahblah licensess, other than how it enabled my roles with the firms that employed me.  
 
-So where am I now?? I'm not yet retired, and I have a "day job" that doesn't involve trading.  I'm still working for someone who signs my paychecks, but I'm (overall) happy with my financial trajectory.
+So where am I now?? I'm not yet retired, and I have a day job that doesn't involve trading.  I'm still working for someone who signs my paychecks, but I'm (overall) happy with my financial trajectory.
 
 To find out more and keep up with the latest updates on my personal life, [check out the Posts section!!](/_posts/)
+
+slight change
