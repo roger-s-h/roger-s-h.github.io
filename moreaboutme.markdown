@@ -1,7 +1,7 @@
 ---
 layout: page
 title: More About Me
-permalink: /moreAboutMe/
+permalink: /moreaboutme/
 ---
 After coming out of college with a BS degree in *Applied Mathematics with a Specialization in Computing*, I started working as a software engineer for a webshop. This was just before the dotcom craze that started at the turn of the century.  
 
