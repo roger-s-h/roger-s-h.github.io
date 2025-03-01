@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Book Review: Zen in the Art of Archery"
+date:   2025-02-28 00:00:08 -0800
+categories: books
+permalink: /books/zenarchery/
+---
+[*Zen in the Art of Archery*, by Eugen Herrigel](https://www.amazon.com/Zen-Art-Archery-Eugen-Herrigel/dp/0375705090/)
+
+asdfasdfs

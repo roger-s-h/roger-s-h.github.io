@@ -11,9 +11,9 @@ Here's a list of books that have been instrumental in my growth and development 
 - [*Reminiscinces of a Stock Operator*](/books/reminiscences/)
 - [*Market Wizards: Interviews With Top Traders*](/books/marketwizards/)
 - [*Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications*](/books/taotfm/)
-- Technical Analysis from A to Z
-- Japanese Candlestick Charting Techniques
-- Zen in the Art of Archery
+- [*Technical Analysis from A to Z*](/books/taa2z/)
+- [*Japanese Candlestick Charting Techniques*](/books/candlesticks/)
+- [*Zen in the Art of Archery*](/books/zenarchery/)
 - Hagakure
 - The Art of War
 

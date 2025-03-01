@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Book Review: Technical Analysis from A to Z"
+date:   2025-02-28 00:00:05 -0800
+categories: books
+permalink: /books/taa2z/
+---
+[*Technical Analysis from A to Z*, by Stephen Achelis](https://www.amazon.com/Technical-Analysis-2nd-Steven-Achelis/dp/0071363483/)
+
+This book served as a great reference while I was navigating the muck of the internet.  
+
+It gave me a solid reference for quick and understnadable explanations for what would have otherwise been an overwhelming amount of incredible information during the dotcom boom.  
+
+This book won't give a mathematical breakdown of how each and every technical indicator is calculated, but it gave me a lively springboard from which I could prepare myself for the splash as I dove into the cesspool of financial markets.  
+
+And if my staying afloat is testimony, then this book is worth reading.

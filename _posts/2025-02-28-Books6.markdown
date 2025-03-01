@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Book Review: Japanese Candlestick Charting Techniques"
+date:   2025-02-28 00:00:06 -0800
+categories: books
+permalink: /books/candlesticks/
+---
+[*Japanese Candlestick Charting Techniques*, by Steve Nison](https://www.amazon.com/Japanese-Candlestick-Charting-Techniques-Second/dp/0735201811)
+
+Visually, Candlestick charts allow for a quick assessment of a trading session's activity.  One can quickly learn how to interpret the display of candlesticks...
+
+Honestly, I'm not much of one for measuring implications or drawing conclusions from a single session's OHLC profile.  I usually "zoom out" where a single session's characteristics doesn't affect my decisionmaking.
+
+But what *really* tickles me are the cool names that have been given to the chart patterns that traders have identified since the days of feudal Japan. Being understood when saying: "Double Doji Death Star", is almost an invaluable experience...
+
+But the attractive beauty (for me) of candlesticks is that they are robust and scalable, such that periodicity and frequency doesn't detract from their relevance.
+
+4 data points, colors, outlines...  Chart reading ability that doesn't dimish as I squint at the screen when looking at charts...  Winner!

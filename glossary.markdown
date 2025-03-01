@@ -13,3 +13,5 @@ Float Shares
 Outstanding Shares
 
 Spread
+
+OHLC
