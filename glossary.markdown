@@ -1,12 +1,15 @@
 ---
 layout: page
-title: External Links
+title: Glossary
 permalink: /glossary/
 ---
 
-definitions Placeholder 
+Penny Stock
 
-definitions Placeholder 
-definitions Placeholder 
-definitions Placeholder 
-definitions Placeholder 
+Slippage
+
+Float Shares
+
+Outstanding Shares
+
+Spread

@@ -23,3 +23,4 @@ What do you think of "[SYMBOL]"?
 
 Isn't trading just legalized gambling?
 
+What about Crypto?
