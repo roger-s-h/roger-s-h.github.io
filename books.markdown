@@ -10,7 +10,7 @@ Here's a list of books that have been instrumental in my growth and development 
 - [*The Disciplined Trader: Developing Winning Attitudes*](/books/thedisciplinedtrader)
 - [*Reminiscinces of a Stock Operator*](/books/reminiscences/)
 - [*Market Wizards: Interviews With Top Traders*](/books/marketwizards/)
-- [*Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications*](/books/taotfm)
+- [*Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications*](/books/taotfm/)
 - Technical Analysis from A to Z
 - Japanese Candlestick Charting Techniques
 - Zen in the Art of Archery
