@@ -1,7 +1,7 @@
 ---
 layout: page
 title: External Links
-permalink: /links/
+permalink: /glossary/
 ---
 
 definitions Placeholder 
