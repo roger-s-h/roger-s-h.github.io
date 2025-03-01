@@ -1,11 +1,15 @@
 - title: About
   url: /about/
+- title: Posts
+  url: /_posts/
 - title: Resources
   url: /resources/
   sublinks:
     - title: Books
-      url: /resources/
-    - title: External Links
-      url: /resources/
+      url: /books/
+    - title: Links
+      url: /links/
+    - title: Glossary
+      url: /glossary/
 - title: FAQs
   url: /FAQs/

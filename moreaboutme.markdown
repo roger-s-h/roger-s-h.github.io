@@ -19,6 +19,4 @@ But in the end, I learned that I didn't need to work in the industry to get what
 
 So where am I now?? I'm not yet retired, and I have a day job that doesn't involve trading.  I'm still working for someone who signs my paychecks, but I'm (overall) happy with my financial trajectory.
 
-To find out more and keep up with the latest updates on my personal life, [check out the Posts section!!](/_posts/)
-
-slight change
+To find out more and keep up with the latest, as well as potential updates on my personal life, [check out the Posts section!!](/_posts/)
