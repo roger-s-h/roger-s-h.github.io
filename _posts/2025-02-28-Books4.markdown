@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Book Review: Technical Analysis of the Financial Markets"
+date:   2025-02-28 00:00:04 -0800
+categories: books
+permalink: /books/taotfm/
+---
+[*Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications*, by John Murphy](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661)
+
+John Murphy with Technical Analysis is like Stephen Hawking with Wormholes.  He didn't create it, but he was able to study, understsand, and explain what he learned to lead his audience one step closer toward *Enlightenment*.
+
+Crafted and worded in a manner that allows for it to be a timeless keystone in one's bridge over the treachery of ignorance.
+
+John Murphy, unsurprisingly, has [one of the best free charting websites](https://stockcharts.com/) available to the public.
