@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-Here's a list of books that have been instrumental in my growth and development as a trader.  Some of them are more tangential to the world of financial markets and investing, but they still helped me gain a unique perspective on trading and investing in general.  
+Here's a list of books that have been instrumental in my growth and development as a trader.  While none of them, individually, is responsible for my current philosophy and strategy with respect to the world of financial markets and investing, they *ALL* helped me gain a unique perspective on trading and investing in general.  
 
 #### Recommended Reading List:
 - [*The Disciplined Trader: Developing Winning Attitudes*](/books/thedisciplinedtrader)
@@ -13,8 +13,6 @@ Here's a list of books that have been instrumental in my growth and development 
 - [*Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications*](/books/taotfm/)
 - [*Technical Analysis from A to Z*](/books/taa2z/)
 - [*Japanese Candlestick Charting Techniques*](/books/candlesticks/)
-- [*Zen in the Art of Archery*](/books/zenarchery/)
-- Hagakure
-- The Art of War
+- [*Hagakure*](/books/hagakure/)
 
 Please also note that I am not affiliated in any way with the authors, publishers, or vendors of these items.  

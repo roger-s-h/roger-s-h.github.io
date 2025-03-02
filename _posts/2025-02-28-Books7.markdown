@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Book Review: Zen in the Art of Archery"
-date:   2025-02-28 00:00:08 -0800
+title:  "Book Review: Hagakure"
+date:   2025-02-28 00:00:07 -0800
 categories: books
-permalink: /books/zenarchery/
+permalink: /books/hagakure/
 ---
-[*Zen in the Art of Archery*, by Eugen Herrigel](https://www.amazon.com/Zen-Art-Archery-Eugen-Herrigel/dp/0375705090/)
+[*Hagakure*, by Yamamoto Tsunetomo](https://www.amazon.com/Hagakure-Book-Samurai-Yamamoto-Tsunetomo/dp/1590309855/)
 
-asdfasdfs
+Many portions of this book had the feel of Tolkien's "*The Silmarillion*", with a lot of historical references to names and places.  
+
+But it also had plenty of sections woven into it that served as learning moments for my non-samurai self.  One of the more memorable aphorisms was the guidance it gave about walking in the rain and being resolved to getting wet... a very fitting allegory to the endeavor of trading and investing.  
+
+Other passages helped highlight the importance of detatchment from one's emotions when presented with a task and any emotions regarding the resulting outcome.  How confidence is more deeply rooted not in one's certainty of success, but in the peace of mind that one can endure and survive any failure or the consequences thereof.
+
+A worthwhile read, indeed!

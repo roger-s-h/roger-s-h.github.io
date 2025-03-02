@@ -7,7 +7,7 @@ permalink: /books/marketwizards/
 ---
 [*Market Wizards: Interviews With Top Traders*, by Jack Schwager](https://www.amazon.com/Market-Wizards-Jack-D-Schwager/dp/0887306101)
 
-A collection of vignettes from Jack Scwager as he interviewed several extraordinary traders and their journey toward becoming who they are.
+A collection of vignettes from Jack Schwager as he interviewed several extraordinary traders and their journey toward becoming who they are.
 
 Much like [Reminiscinces](/books/reminiscences/), but with a journalistic approach, and perhaps with less of a cautionary end result.
 
