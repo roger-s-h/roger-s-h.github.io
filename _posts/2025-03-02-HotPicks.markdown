@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Hot Picks"
+date:   2025-03-02 00:00:02 -0800
+categories: FAQs
+permalink: /FAQs/hotpicks/
+---
+### Got any Hot Picks?
+
+No.  
+
+If you're looking for someone to coat-tail trades from, you're probably setting yourself up for disappointment.  Are you going to always rely on someone telling you what to buy and when to enter a trade?  Are you going to always rely on that person to tell you when to exit a trade?  That might qualify as a strategy, but it's not a very good one.  
+
+Spend the time to develop your own methodology.  Ask yourself what you're trying to achieve, and look for opportunities to execute your strategic plan to achieve it.  
+
+So, how do __*I*__ come up with my own trade ideas??  
+
+My weekly routine is to run several screens, using search criteria that varies based on the types of trades I'm looking to make.  
+
+For the most part, these criteria are:
+- Price
+- Market Capitalization
+- Average Daily Share Volume
+- Index Membership (for my large-cap screens)
+
+After running each screen (I have 5 of them), I run through the charts of each the resulting tickers and build a "first run" watchlist.  After going through all of the search results, I take a "second run" and look deeper into the fundamental and technical aspects of each ticker that made my watchlist.  From there, I end up with a small handful of tickers that become my potential new trades for that week.
+
+For my "Penny Stock Screen", I simply look for low-priced stocks (less than $2), market capitalization of $25MM or more, and average daily volume of at least 500k shares.  This usually ends up giving about 60-120 results, but overall market conditions can fluctuate where there are significantly more/less.
+
+Price-wise, I'm really not interested in "high-flyers".  I'm looking for low-priced stocks that have not yet had a large influx of institutional money come in, or have had institutions largely abandon their positions.  I'm generally looking for turnaround stories where the downtrend that turned the stock into a Penny Stock abates and reverses.  One other benefit of a low-priced stock is that worst-case scenario -- $0 -- is not as far away for a penny stock as it is for something priced at $30 or $50 or $500 per share.  This allows me to trap absolute risk which can be managed/mitigated by keeping the position size small enough such that it won't ruin me if that happens.  To this day, of all of the Penny Stock trades I have ever made, 2 of them have resulted in me getting ABSOLUTELY NOTHING ($0) in return.  While rare, it can happen, and one should be prepared for such a situation.
+
+Having a market capitalization of $25MM or more filters out a lot of literal junk out there.  It targets companies that still represent *some* notional value, but usually much less than what the market may have once figured.  This criterion was borne largely from the overwhelming amount of noise that came along with lower levels.  I was getting literally hundreds of results when running screens with lower numbers for this, so after tinkering around with it, this is what I ended up with to get a more practical pool of results.
+
+You'll find a lot of Penny Stocks that simply don't have any action.  Wide spreads, low volumes...  I tend to stay away from these because it's too difficult to build a significant position in them.  Being a low-priced stock, the opportunity to build a sizeable position is what usually makes them attractive to me.  But to try to do so on a stock that barely trades 10k shares/day is simply not practical.  As such, I look for ones that have enough activity where I can nimbly get in or out without much slippage or worry about where my order will get filled.
+
+And even with all of that said, you will still have to do your own homework and come to your own conclusions.  Having already "tipped my hand" with my Penny Stock screen criteria, you can now explore things on your own and develop your own way of seeking trade opportunities... which might result in you *NOT* trading Penny Stocks at all!!!
+
+GLHF!

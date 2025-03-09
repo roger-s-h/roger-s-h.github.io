@@ -13,7 +13,7 @@ Unfortunately, the bubble burst before I could accumulate the level of success t
 
 This led to a career arc that spanned a little over 15 years at 5 different firms, but throughout my tenure I never tried building a book of clients nor wanted to manage other people's money.  
 
-I was solely focused on gaining the experience and skills that would allow me to achieve my own financial goals through trading. All of the training I underwent and certifications I attained were all in an effort to gain a better understanding of the machinations of financial markets and the rules and regulations that govern them.  
+I was solely focused on gaining the knowledge, experience, and skills that would allow me to achieve my own financial goals through trading. All of the training I underwent and certifications I attained were all in an effort to gain a better understanding of the machinations of financial markets and the rules and regulations that govern them.  
 
 But in the end, I learned that I didn't need to work in the industry to get what I wanted.  I didn't need my Series 7/24/55/blahblah licenses, other than how it enabled my roles with the firms that employed me.  
 

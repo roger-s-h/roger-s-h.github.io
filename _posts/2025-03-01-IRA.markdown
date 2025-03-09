@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Retirement and Penny Stocks"
+date:   2025-03-01 00:00:01 -0800
+categories: FAQs
+permalink: /FAQs/IRA
+---
+### Can I trade Penny Stocks in my IRA/my grandparents' IRA?
+
+Short answer: maybe, it depends...
+
+Firstly, if you're trying to trade penny stocks in your grandparent's IRA, then you should probably leave this site and immediately apologize at the altar of *ALL* of your ancestors.
+
+Usually, funds placed in an IRA are intended to be invested conservatively with a time horizon that is aligned with one's target retirement date and life expectancy.  Most people don't want to expose their IRA (or other retirement accounts) to risks and/or volatility that would make achieving their financial goals more uncertain.
+
+Ultimately, your ability to trade *ANYTHING* in *any* trading acount will depend on your Account Agreement with your broker.  Some might not have any special rules in place prior to your first Penny Stock trade, while others may require you to sign an acknowlegement of the associated risks.  Many Self-Directed IRAs held with LARGE brokerages will allow you to make investments in nearly any security, even Options and Futures.  Check with your broker to find out more.
+
+For the most part, brokerages can have their own definition of what a Penny Stock is, which should be at least as restrictive as how the SEC defines it.  Whether or not they allow you to trade them will depend on that broker's rules and requirements.  
+
+And stop messing with your grandparent's IRA!!!
