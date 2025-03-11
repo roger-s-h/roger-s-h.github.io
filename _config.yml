@@ -34,7 +34,7 @@ subscribe: false
 
 
 # Settings for Hamilton theme
-skin: midnight
+skin: ilpsTheme
 
 # Build settings
 # theme: jekyll-theme-hamilton
