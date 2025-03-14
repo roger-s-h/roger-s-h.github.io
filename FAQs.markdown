@@ -17,7 +17,7 @@ permalink: /FAQs/
 
 [What was your best trade?](/FAQs/besttrade/)
 
-[How Can I Turn $XX into $YYYYYYYYYYYY In Z Days???](FAQs/howcani/)
+[How Can I Turn $XX into $YYYYYYYYYYYY In Z Days???](/FAQs/howcani/)
 
 [What do you think of "[SYMBOL]"?](/FAQs/whatdoyouthink/)
 
