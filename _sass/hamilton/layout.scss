@@ -18,6 +18,8 @@
   min-height: $base-font-size * 3;
   line-height: $base-font-size * 3;
 
+  background-image: url("Pennies_cropped.jpg");
+
   @include media-query($on-small) {
     display: flex;
   }
