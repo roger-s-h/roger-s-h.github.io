@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Is there such a thing as a 'Financial Advisor'??"
+date:   2025-04-22 00:00:00 -0000
+categories: 
+# permalink: 
+---
+### Is there such a thing as a "Financial Advisor"???
+
+I was watching Last Week Tonight and saw the episode on Retirement Plans, where [John Oliver was talking about "Financial Advisors"](https://youtu.be/gvZSpET11ZY?feature=shared&t=207).  He mentions a few "titles" that are generic terms used by investment professionals, as part of a cautionary explanation of roles within the financial industry.
+
+It irked me a bit to hear this, in large part because it dismissively glossed over a very important distinction involving financial industry professionals and the sometimes flippant titles they'll give themselves.  I understand and accept that John might not be as knowledgeable about some of these distinctions, so let me straighten a few things out...
+
+I'll start by agreeing with John (and his writers) and say that **there is no professional designation recognized in the United States for a "Financial Advisor"**.  Laughably, many people in the industry (and many more who aspire to be) think that such a title commands respect or reverance for anyone claiming to be one.  But be wary of anyone calling themselves a Financial Advisor.  They're either an idiot or a scammer, or some combination of the two.
+
+Granted, anyone can get hired by some company where they are given a title of Financial Advisor or work in a department of a company that is similarly named, but there is no entity or organization that recognizes nor certifies one's qualifications as such.
+
+#### Registered Investment Advisors (RIA/IA)
+
+However, there __is__ something called a "Registered Investment Advisor" (RIA/IA).  RIAs __are__ recognized as financial industry professionals and are regulated mainly by the SEC.  Of course, FINRA Rules and State and Federal laws also govern what they can/can't do.  They cannot act on their own, meaning they must be employed by a Registered Investment Advisory Firm (which they can create/establish for themselves, but they'll also be regulated by the SEC).  They are bound to act as Fiduciaries for their clients, and must act in the best financial interests of them.  Qualifications include passing an exam (FINRA Series 65), submitting fingerprints, continuing education requirements, and some pretty strict compliance rules that relate to recordkeeping and proper disclosures... among many other things.  There are also disqualifications, some of which may be eligible for appeal, regarding things like one's criminal background (no financial crimes) and financial history.
+
+RIAs are permitted to charge fees for their services, and their main compensation is usually from an hourly fee or derived from a client's Assets Under Management.  Investors who are considering hiring an RIA can make use of the [SEC's Action Lookup - (for) Individuals (SALI)](https://www.sec.gov/litigations/sec-action-look-up) and also use [FINRA's Broker Check](https://brokercheck.finra.org/) to examine their regulatory history.
+
+#### Certified Financial Planner (CFP)
+
+John mentioned that "Financial Planner" was one of the titles that doesn't really hold any weight.  He's kinda right and kinda wrong.
+
+There __IS__ such a thing as a "Certified Financial Planner", and these professionals endeavor pretty rigorous educational and examination requirements to achieve their certifications.  CFP designations require a 4-year degree from an accredited college, as well as having completed coursework approved by the CFP Board (which may be integrated or separate from college courses).  What does a CFP designation allow someone to do?  Basically, it allows them to charge a fee for drafting a financial plan for their clients.  These plans can involve much more than simply stock and bond investments like tax strategies, estate planning, insurance, and the like.  CFP professionals are certified by the CFP Board, who also ensure that their designees adhere to continuing education requirements and are committed to their code of ethics.  Many Registered Investment Advisors also have CFP designations... so they can charge you a planning fee **AND** an investment advice fee! (heh /Kappa).  But be weary of being charged a fee for financial planning by anyone who does not hold this certification!!!
+
+Find out more about the CFP designation at [the CFP Board's website](https://www.cfp.net/)!
+
+#### Chartered Financial Analyst (CFA)
+
+"Financial Analyst" was also a title that was mentioned in John's episode, and again...  he's kinda right and kinda wrong.
+
+This one bugged me the most, probably because I feel this is one of the toughest designations to achieve.  Sure, John is technically correct in suggesting that there is no such thing as a Financial Analyst, but there is **DEFINITELY** something called a Chartered Financial Analyst... and it's sone of the most grueling processes one can undertake.
+
+Let's start with the 3-part examination.  These aren't simple multiple-choice questions where guesswork plus reasonable deductive methods can be rewarded.  Many exam questions require calculation in addition to critical thinking and recall.  With the time constraints that accompany the exams, a fair amount of familiarity with financial concepts and economic theory are involved.
+
+The CFA designation also requires a Work Experience component, and in **ANY** economy, landing a qualifying job with a firm can be damn near impossible for many reasons.  In addition to that, you need to kiss enough ass to be able to get referrals from industry professionals who will vouch for you in the right way "to comment on your work experience and professional character".  SSSSSSMMMMMMMOOOOOOOCHHHH!  Anyone got a breath mint?  Kappa
+
+Joking aside, because the CFA exam is no joke, CFA Charterholders give reasonable assurance that they've run the qualification gauntlet and know their stuff.  It takes a lot more dedication and effort to achieve this designation than most humans have.
+
+#### In summary...
+Kudos to John and the Last Week Tonight crew for this episode, I thoroughly enjoyed it.  But for sure, there were some things that I felt needed to be addressed with what he said and/or how it was presented.
+
+There are good, honest, hard-working people in the financial industry.  Most of them are underpaid while dishonesty and unethical behavior gets "rewarded".
+
+Caveat Emptor, Caveat Venditor
