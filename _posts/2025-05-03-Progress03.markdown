@@ -6,6 +6,16 @@ date:   2025-05-03
 categories: 
 # permalink: /progress/part3/
 ---
-### Walking the Path.  Part 3
+### Walking the Path.  Part 3: Intelligence
 
-As we gain more knowledge, we start noticing patterns and drawing connections between the different things we come to know.  
+As we gain more knowledge, we start noticing patterns and start drawing connections between the different things we come to know.  This brings us to our third step, Intelligence, our ability to learn.
+
+Simply knowing something might help us react to stimuli in a way that keeps us alive, or help us win a few drinks at the local bar's trivia night.  But putting the pieces of what we know together allows us to imagine and anticipate a future ahead of us.  When we can envision the paths ahead of us and the outcomes of trekking them, we can start drawing reasonable conclusions and make informed decisions that might help us arrive at our intended destinations.
+
+Intelligence builds our skillset.  When we **learn how to learn**, and stay cognizant of how we learn best for ourselves, barriers melt away and possibilities abound.
+
+On a personal note, my "A-HA!! Moment" came to me in college.  I had taken several programming courses at that point, but was still missing something that would allow me to see how any of this was going to help me or anyone else.
+
+I took a course on Software Design using Object Oriented Programming techniques, and it blew the doors wide open.  I went from "knowing" how to code and the lexical/syntactical/grammatical rules to which coders must adhere - to "learning" how to solve problems using well designed software.  It offered me the framework for me to go from problem statement towards designing and implementing a viable and functioning solution.
+
+This was a major step to take, as it gave me the confidence and skillset to attack and conquer any problem that might surface...  Or, so I thought...

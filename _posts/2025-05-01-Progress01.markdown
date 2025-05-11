@@ -5,7 +5,7 @@ date:   2025-04-23 00:00:00 -0000
 categories: 
 # permalink: /progress/part1/
 ---
-### Walking the Path.  Part 1
+### Walking the Path.  Part 1: Awareness
 
 When I first started getting interested in trading financial markets, I knew nothing more than the semester course that was taught in my senior year of high school.  At one point, the teacher had us do some mock trading to get us to learn how to read closing quotes from newspapers, and use whatever techniques/strategies from which to extract our trade ideas.  We would hand him "tickets" to open and close our positions and we'd all keep tabs on our P/L.  The only thing I can remember about the results of these trades is that it was.. um.. unremarkable.  LUL
 
