@@ -9,7 +9,7 @@ categories:
 
 There's been [recent talk about Short Selling](https://www.cnbc.com/2024/03/13/palantir-ceo-short-sellers-pull-down-us-companies-to-pay-for-coke.html), and as amusing as it might be, it's shameful and embarrassing to see a CEO have such an odd take on it.
 
-Of course, this isn't the first time a high-profile CEO has lashed out in this way against the amorphous cabal that seek to "destroy value" of stockholders.  However, it's probably the most comical instance of someone finding reason to displace blame upon and attribute executive difficulties to Financial Evil Doers.
+Of course, this isn't the first time a high-profile CEO has lashed out in this way against the amorphous cabal that seeks to "destroy value" of stockholders.  However, it's probably the most comical instance of someone finding reason to displace blame upon and attribute executive difficulties to Financial Evil Doers.
 
 What intrigues me the most is that Mr. Karp's company is at all-time highs.  Like, dude!!!???  WTF are you *REALLY* complaining about?
 
